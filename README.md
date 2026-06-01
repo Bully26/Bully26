@@ -1,4 +1,4 @@
-# Hi, I'm Priyanshu Pradhan 👋
+# Hi, I'm Priyanshu 👋
 
 🚀 ** Backend & Distributed Systems Enthusiast**  
 
